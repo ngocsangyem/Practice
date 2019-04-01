@@ -1,0 +1,12 @@
+# how to use plugin:
+- css-loader
+- file-loader
+- html-loader
+- html-webpack-plugin
+- mini-css-extract-plugin
+- node-sass
+- sass-loader
+- style-loader
+- webpack
+- webpack-cli
+- webpack-dev-server
