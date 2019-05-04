@@ -1,0 +1,19 @@
+div {
+	display: inline-block;
+	background: teal;
+	width: 230px;
+	height: 100px;
+	padding: 40px 10px;
+	box-sizing: border-box;
+	font-family: courier;
+	font-size: 0.8em;
+	color: #fff;
+}
+
+.percent {
+	border-radius: 50%;
+}
+
+.pixels {
+	border-radius: 115px/50px;
+}
